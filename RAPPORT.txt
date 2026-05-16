@@ -1,0 +1,15 @@
+*Ce rapport présente la réalisation d'un TP sur la consommation d'APIs REST sous Android. 
+
+
+L'objectif est de maîtriser trois bibliothèques différentes :
+Volley, OkHttp et Retrofit, et de comprendre leurs spécificités, avantages et inconvénients.
+
+**Objectif**
+1:Créer un projet Android Kotlin avec permission Internet
+2:Consommer une API REST avec Volley
+3:Consommer une API REST avec OkHttp
+4:Consommer une API REST avec Retrofit
+5:Afficher les données dans un RecyclerView
+6:Implémenter une navigation vers un écran de détail
+7:Gérer les erreurs et afficher un indicateur de chargement
+8:Appliquer les bonnes pratiques de sécurité
